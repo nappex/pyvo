@@ -13,3 +13,4 @@ Topics:
 
 2. How did I analyze prices from pdf documents (pandas, jupyter, parse pdf) ❌
 3. Python3 - mockovani pomoci pytest `monkeypatch.setattr` [source code](https://github.com/nappex/pyvo/tree/master/02_02_2022) ✔️
+4. How to use shell with shortcuts [blog article](https://nappex.github.io/myblog/command-line-moves) ❌
